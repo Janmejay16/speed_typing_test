@@ -1,0 +1,4 @@
+PIL
+tkinter
+sqlite3
+timeit
